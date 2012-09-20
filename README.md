@@ -1,4 +1,4 @@
 French-Toast-Assets
 ===================
 
-Asset Files for French Toast
+Design assets for [French Toast](https://wiki.mozilla.org/Pancake/French_Toast).
